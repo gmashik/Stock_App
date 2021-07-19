@@ -1,3 +1,5 @@
 # Stock Price Analysis and Prediction App
 
-## Link 
+## Link for the live app : https://stockapp1101.herokuapp.com/
+
+
