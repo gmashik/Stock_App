@@ -1,1 +1,3 @@
-# stock_app
+# Stock Price Analysis and Prediction App
+
+## Link 
